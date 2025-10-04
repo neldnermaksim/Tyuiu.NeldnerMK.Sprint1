@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 using tyuiu.cources.programming.interfaces.Sprint1;
-using static System.Runtime.InteropServices.JavaScript.JSType;
+
 
 namespace Tyuiu.NeldnerMK.Sprint1.Task5.V5.Lib
 {
