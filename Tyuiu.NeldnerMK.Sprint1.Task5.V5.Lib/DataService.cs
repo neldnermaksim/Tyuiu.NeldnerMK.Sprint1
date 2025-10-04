@@ -11,7 +11,8 @@ namespace Tyuiu.NeldnerMK.Sprint1.Task5.V5.Lib
 {
     public class DataService : ISprint1Task5V5
     {
-        public double Calculate(double x)
+       
+        int ISprint1Task5V5.Calculate(double x)
         {
             return (int)(x * 10) % 10;
         }
